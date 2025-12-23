@@ -55,13 +55,7 @@ redirect_from:
 # 📰🔥 News
 
 - [获批国家自然科学基金交叉科学部青年B类项目（原优青项目）](https://steps.tongji.edu.cn/79/b0/c20282a358832/page.htm)
-- 2025领跑者5000（F5000）顶尖论文[《新一代智慧高速公路系统架构设计》](https://kns.cnki.net/kcms2/article/abstract?v=zYSMMY9t1scjAZV0Am70WcwnH4CVsY6b29i-f_e5pf7OZBzvlJiHNGk5Z1nG2Vog0aiAbtkKMKTx0DdKsygJDE2NwF5XVAGraWGABgUtGwHNyiQhToEBqfLjJSL8Jh5E6rtjsmXgGF6-JV8TcdmTA4twO7qGQFYqD4I5bJfsURc=&uniplatform=NZKPT)
-- 数据要素×交通Al+城市与交通典型案例征集——数字路长“智能管养平台建设”
-- 国家一流课程（社会实践类）《交通科技竞赛》
-- 河北垂直大模型应用场景《同济小图》
-- 新加坡LTA证明《轻量化路面巡查系统》
-- UNESCAP	Accelerating Collective Action in the Third Decade of the Programme of Action for Landlocked Developing Countries (2024–2034) through Strengthening Operational Connectivity along the Asian Highway Network and its Connections
-- 高峰学科交叉项目《无线电能驱动的电气化、模块化低空基础设施》
+
 
 # 📝 Publications 
 📃 Papers
