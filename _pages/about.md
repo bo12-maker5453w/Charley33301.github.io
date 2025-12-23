@@ -347,6 +347,6 @@ Transportation Research Part C: Emerging Technologies
 
 **Undergraduate Students**
 - Enze Wang(2022.9-2026.7, Research interests include automated road infrastructure inspection and maintenance augmented by LLM and embodied AI)
-- Jingtai Luo(2022.9-2026.7, )
+- Jingtai Luo(2022.9-2026.7, Research interests include AI-supported intelligent infrastructure and pavement defect detection algorithms.)
 
 **Visiting Students**
