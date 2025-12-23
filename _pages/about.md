@@ -53,9 +53,12 @@ redirect_from:
 - 国家重点研发计划(2019), 港珠澳大桥智能化运维技术集成应用, 项目骨干
 
 # 📰🔥 News
-
-- [获批国家自然科学基金交叉科学部青年B类项目（原优青项目）](https://steps.tongji.edu.cn/79/b0/c20282a358832/page.htm)
-
+<div class='paper-box'>
+<div class='paper-box-text' style="width: 100%;" markdown="1">
+    [获批国家自然科学基金交叉科学部青年B类项目（原优青项目）](https://steps.tongji.edu.cn/79/b0/c20282a358832/page.htm)
+    🔥`New！`同济大学智能交通新兴计算与感知课题组（STEP）刘成龙副教授申报的国家自然科学基金青年科学基金B类项目（原优青项目）顺利获批。这是团队在交通基础设施数字化运维管理领域长期科研积累与创新贡献的充分肯定。
+</div>
+</div>
 
 # 📝 Publications 
 📃 Papers
