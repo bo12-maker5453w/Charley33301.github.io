@@ -53,7 +53,7 @@ redirect_from:
 
 # 📰 News
 
-- 🔥`New！`获批国家自然科学基金交叉科学部青年B类项目（原优青项目）(https://steps.tongji.edu.cn/79/b0/c20282a358832/page.htm)
+- 🔥`New！`[获批国家自然科学基金交叉科学部青年B类项目（原优青项目）](https://steps.tongji.edu.cn/79/b0/c20282a358832/page.htm)
 
 # 📝 Publications 
 📃 Papers
