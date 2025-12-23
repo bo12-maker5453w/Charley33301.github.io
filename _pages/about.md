@@ -346,7 +346,7 @@ Transportation Research Part C: Emerging Technologies
 - Jun Wan(2025.9-, Research interests include traffic incident detection and road maintenance decision-making within intelligent transportation infrastructure.)
 
 **Undergraduate Students**
-- Enze Wang(2022.9-2026.7, )
+- Enze Wang(2022.9-2026.7, Research interests include automated road infrastructure inspection and maintenance augmented by LLM and embodied AI)
 - Jingtai Luo(2022.9-2026.7, )
 
 **Visiting Students**
