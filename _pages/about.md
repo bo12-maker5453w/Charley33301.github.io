@@ -56,33 +56,33 @@ redirect_from:
 # 📰🔥 News
 
 <style>
-/* 此处为添加的新闻界面ccs样式 */
-/* 1. 新闻容器：网格布局 */
+% 此处为添加的新闻界面ccs样式
+% 1. 新闻容器：网格布局
 .news-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* 自动适应列宽，手机单列，电脑多列 */
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));% 自动适应列宽，手机单列，电脑多列 
   gap: 20px;
   margin-top: 20px;
 }
-/* 2. 新闻卡片（预览状态） */
+% 2. 新闻卡片（预览状态）
 .news-card {
   background-color: #fcfcfc;
   border: 1px solid #eee;
   border-radius: 8px;
   padding: 20px;
-  cursor: pointer; /* 鼠标放上去变小手 */
+  cursor: pointer; % 鼠标放上去变小手
   position: relative;
   overflow: hidden;
-  height: 200px; /* 预览卡片固定高度 */
+  height: 200px; % 预览卡片固定高度
   transition: all 0.3s ease;
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 .news-card:hover {
-  transform: translateY(-5px); /* 悬停上浮 */
+  transform: translateY(-5px); % 悬停上浮
   box-shadow: 0 8px 15px rgba(0,0,0,0.1);
-  border-color: #d9534f; /* 悬停边框变色 */
+  border-color: #d9534f; % 悬停边框变色
 }
-/* 给预览卡片底部加一个渐变遮罩，暗示还有内容 */
+% 给预览卡片底部加一个渐变遮罩，暗示还有内容
 .news-card::after {
   content: "";
   position: absolute;
@@ -93,40 +93,40 @@ redirect_from:
   background: linear-gradient(to bottom, rgba(252,252,252,0), rgba(252,252,252,1));
   pointer-events: none;
 }
-/* 3. 模态框（弹窗背景） */
+% 3. 模态框（弹窗背景）
 .news-modal-overlay {
-  display: none; /* 默认隐藏 */
+  display: none; % 默认隐藏
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.6); /* 半透明黑色背景 */
+  background-color: rgba(0, 0, 0, 0.6); % 半透明黑色背景
   z-index: 9999;
   justify-content: center;
   align-items: center;
   padding: 20px;
   backdrop-filter: blur(5px); /* 背景模糊效果 */
 }
-/* 4. 模态框内容区域（详细内容） */
+% 4. 模态框内容区域（详细内容）
 .news-modal-content {
   background-color: #fff;
   width: 100%;
-  max-width: 800px; /* 最大宽度 */
-  max-height: 85vh; /* 最大高度不超过视窗的85% */
-  overflow-y: auto; /* 内容多了可以滚动 */
+  max-width: 800px; % 最大宽度
+  max-height: 85vh; % 最大高度不超过视窗的85%
+  overflow-y: auto; % 内容多了可以滚动
   border-radius: 12px;
   padding: 40px;
   position: relative;
   box-shadow: 0 10px 30px rgba(0,0,0,0.3);
   animation: modalPop 0.3s ease-out;
 }
-/* 弹窗出来的动画 */
+% 弹窗出来的动画
 @keyframes modalPop {
   from { transform: scale(0.9); opacity: 0; }
   to { transform: scale(1); opacity: 1; }
 }
-/* 关闭按钮 */
+% 关闭按钮
 .news-close-btn {
   position: absolute;
   top: 15px;
@@ -192,6 +192,7 @@ PaveTrack 数据集收录了来自中国与美国的近6万张路面病害图像
     <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
       <p>近日，中国科学技术信息研究所发布了2025年度“领跑者5000-中国精品科技期刊顶尖学术论文”（简称F5000）入选名单。由团队杜豫川教授作为第一作者，刘成龙副教授作为通讯作者，在《中国公路学报》发表的《新一代智慧高速公路系统架构设计》一文入选2025领跑者5000（F5000）顶尖论文。</p>
       <p>该成果以前瞻性的系统思维重新定义了智慧高速的顶层架构，为国家高速公路的数字化转型和代际演进提供了具有前瞻性的理论框架和技术蓝图，此前，该成果已入选高被引、高影响、高PCSI论文，获得中国公路学报年度优秀论文。</p>
+      <p>根据《中国科技论文与引文数据库》信息，采用定量分析（5年被引次数）和定性分析相结合的方法，对学术期刊的质量和影响力进行科学评价，遴选出精品科技期刊。每种精品期刊从5年间发表的论文中择优选取不超过20篇学术论文作为F5000的提名论文。提名论文再经过进一步遴选才能成为F5000论文。入选论文要求为各学科前1%高被引论文，且为原创性的科学研究或技术创新成果，能够反映期刊所在学科领域的最高学术水平。</p>
     </div>
   </div>
 
