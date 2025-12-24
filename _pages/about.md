@@ -61,6 +61,15 @@ redirect_from:
 此次立项将进一步推动课题组在智能交通基础设施数字化与智慧运维方向的科研布局，助力我国交通基础设施高质量发展。课题组全体成员对刘成龙副教授表示热烈祝贺，并期待项目顺利实施，取得更多突破性成果。
 </div>
 
+<div class='paper-box'>
+
+团队与斯坦福大学合作成果发表于Nature子刊《Scientific Data》
+团队联合斯坦福大学Martin Fischer教授团队共同完成的研究成果——《A Large-Scale Image Repository for Automated Pavement Distress Analysis and Degradation Trend Prediction》（大规模自动化路面病害分析与退化趋势预测图像库）及其配套数据集 PaveTrack，正式发表于Nature旗下期刊 Scientific Data。
+该论文的第一作者为同济大学交通运输工程学院2024级硕士研究生杨瀚霖，刘成龙副教授与杜豫川教授担任共同通讯作者。
+PaveTrack 数据集收录了来自中国与美国的近6万张路面病害图像，覆盖裂缝、坑槽、龟裂等10类病害，共计18万条精细标注信息。同时，团队首次公开了约9000张病害发育动态追踪图像，对165个道路位点进行了连续检测与跟踪，为深入揭示路面病害演化机理及退化趋势预测提供了坚实的数据支撑。
+目前，PaveTrack 数据集已在 Science Data Bank 正式开放，研究人员可通过以下[链接](https://doi.org/10.57760/sciencedb.20383)获取
+</div>
+
 
 # 📝 Publications 
 📃 Papers
