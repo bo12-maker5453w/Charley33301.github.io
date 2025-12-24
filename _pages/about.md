@@ -59,32 +59,39 @@ redirect_from:
 /* 1. 新闻容器：网格布局 */
 .news-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* 自动适应列宽，手机单列，电脑多列 */
-  gap: 20px;
+  /* 核心修改：强制分为 2 列，每列占 50% */
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 20px; /* 卡片之间的间距 */
   margin-top: 20px;
 }
 
-/* 2. 新闻卡片（预览状态） */
+/* 手机端优化：屏幕小于 768px 时自动变回 1 列，防止排版太挤 */
+@media (max-width: 768px) {
+  .news-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* 2. 新闻卡片（预览状态） - 保持不变 */
 .news-card {
   background-color: #fcfcfc;
   border: 1px solid #eee;
   border-radius: 8px;
   padding: 20px;
-  cursor: pointer; /* 鼠标放上去变小手 */
+  cursor: pointer;
   position: relative;
   overflow: hidden;
-  height: 200px; /* 预览卡片固定高度 */
+  height: 220px; /* 稍微增加高度，因为两列显示时文字换行可能会更多 */
   transition: all 0.3s ease;
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 
 .news-card:hover {
-  transform: translateY(-5px); /* 悬停上浮 */
+  transform: translateY(-5px);
   box-shadow: 0 8px 15px rgba(0,0,0,0.1);
-  border-color: #d9534f; /* 悬停边框变色 */
+  border-color: #d9534f;
 }
 
-/* 给预览卡片底部加一个渐变遮罩，暗示还有内容 */
 .news-card::after {
   content: "";
   position: absolute;
