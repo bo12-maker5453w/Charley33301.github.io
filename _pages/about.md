@@ -425,22 +425,24 @@ Transportation Research Part C: Emerging Technologies
 </style>
 <h3>Postdoc / Research Fellow</h3>
 <div class="people-grid">
-  <div class="person-card hiring-card" onclick="location.href='mailto:14lcl_tj@tongji.edu.cn';">
+  <div class="person-card hiring-card">
     <div class="hiring-text">
       <i class="fas fa-user-plus"></i> Openings Available<br>
-      <span style="font-size:0.8em; font-weight:normal;">Looking for talented Postdocs.<br>Click to email me!</span>
+      <span style="font-size:0.8em; font-weight:normal;">We are looking for talented Postdocs.<br>Welcome to join us!</span>
     </div>
   </div>
 </div>
+
 <h3>PhD Students</h3>
 <div class="people-grid">
-  <div class="person-card hiring-card" onclick="location.href='mailto:14lcl_tj@tongji.edu.cn';">
+  <div class="person-card hiring-card">
     <div class="hiring-text">
       <i class="fas fa-graduation-cap"></i> PhD Positions Open<br>
-      <span style="font-size:0.8em; font-weight:normal;">Welcome to join STEP Lab!</span>
+      <span style="font-size:0.8em; font-weight:normal;">Positions for PhD students are open.<br>Welcome to apply!</span>
     </div>
   </div>
 </div>
+
 <h3>Master Students</h3>
 <div class="people-grid">
   
