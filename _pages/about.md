@@ -54,8 +54,9 @@ redirect_from:
 
 
 # 📰🔥 News
-/* 此处为添加的新闻界面ccs样式 */
+
 <style>
+/* 此处为添加的新闻界面ccs样式 */
 /* 1. 新闻容器：网格布局 */
 .news-grid {
   display: grid;
@@ -589,7 +590,6 @@ Transportation Research Part C: Emerging Technologies
 </div>
 
 
- // 添加 JavaScript 逻辑，用于新闻弹窗
 <div id="newsModal" class="news-modal-overlay">
   <div class="news-modal-content">
     <span class="news-close-btn">&times;</span>
