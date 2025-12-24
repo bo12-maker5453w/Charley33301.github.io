@@ -96,6 +96,16 @@ PaveTrack 数据集收录了来自中国与美国的近6万张路面病害图像
 </div>
 </div>
 
+<div class="news-card">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
+      <span style="vertical-align: middle;">团队成果《新一代智慧高速公路系统架构设计》入选2025领跑者5000（F5000）顶尖论文</span>
+    </div>
+    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
+      <p>近日，中国科学技术信息研究所发布了2025年度“领跑者5000-中国精品科技期刊顶尖学术论文”（简称F5000）入选名单。由团队杜豫川教授作为第一作者，刘成龙副教授作为通讯作者，在《中国公路学报》发表的《新一代智慧高速公路系统架构设计》一文入选2025领跑者5000（F5000）顶尖论文。</p>
+      <p>该成果以前瞻性的系统思维重新定义了智慧高速的顶层架构，为国家高速公路的数字化转型和代际演进提供了具有前瞻性的理论框架和技术蓝图，此前，该成果已入选高被引、高影响、高PCSI论文，获得中国公路学报年度优秀论文。</p>
+    </div>
+  </div>
+
 # 📝 Publications 
 📃 Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/18.png' alt="sym" width="100%"></div></div>
@@ -489,3 +499,52 @@ Transportation Research Part C: Emerging Technologies
     </div>
   </div>
 </div>
+
+
+ // 添加 JavaScript 逻辑，用于新闻弹窗
+<div id="newsModal" class="news-modal-overlay">
+  <div class="news-modal-content">
+    <span class="news-close-btn">&times;</span>
+    <div id="modalBody">
+      </div>
+  </div>
+</div>
+
+<script>
+  // 获取元素
+  var modal = document.getElementById("newsModal");
+  var modalBody = document.getElementById("modalBody");
+  var closeBtn = document.getElementsByClassName("news-close-btn")[0];
+  var cards = document.querySelectorAll(".news-card");
+
+  // 为每个卡片添加点击事件
+  cards.forEach(function(card) {
+    card.addEventListener("click", function() {
+      // 1. 获取当前点击卡片的 HTML 内容
+      var content = this.innerHTML;
+      
+      // 2. 将内容注入到模态框中
+      modalBody.innerHTML = content;
+      
+      // 3. 显示模态框
+      modal.style.display = "flex";
+      
+      // 4. 锁定背景滚动（可选）
+      document.body.style.overflow = "hidden";
+    });
+  });
+
+  // 关闭功能：点击关闭按钮
+  closeBtn.onclick = function() {
+    modal.style.display = "none";
+    document.body.style.overflow = "auto"; // 恢复滚动
+  }
+
+  // 关闭功能：点击模态框外部空白区域
+  window.onclick = function(event) {
+    if (event.target == modal) {
+      modal.style.display = "none";
+      document.body.style.overflow = "auto"; // 恢复滚动
+    }
+  }
+</script>
