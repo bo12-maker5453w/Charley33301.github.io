@@ -60,29 +60,29 @@ redirect_from:
 <!-- 1. 新闻容器：网格布局-->
 .news-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));% 自动适应列宽，手机单列，电脑多列 
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));<!-- 自动适应列宽，手机单列，电脑多列 -->
   gap: 20px;
   margin-top: 20px;
 }
-% 2. 新闻卡片（预览状态）
+<!-- 2. 新闻卡片（预览状态）-->
 .news-card {
   background-color: #fcfcfc;
   border: 1px solid #eee;
   border-radius: 8px;
   padding: 20px;
-  cursor: pointer; % 鼠标放上去变小手
+  cursor: pointer; <!-- 鼠标放上去变小手-->
   position: relative;
   overflow: hidden;
-  height: 200px; % 预览卡片固定高度
+  height: 200px; <!-- 预览卡片固定高度-->
   transition: all 0.3s ease;
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 .news-card:hover {
-  transform: translateY(-5px); % 悬停上浮
+  transform: translateY(-5px); <!-- 悬停上浮-->
   box-shadow: 0 8px 15px rgba(0,0,0,0.1);
-  border-color: #d9534f; % 悬停边框变色
+  border-color: #d9534f; <!-- 悬停边框变色-->
 }
-% 给预览卡片底部加一个渐变遮罩，暗示还有内容
+<!-- 给预览卡片底部加一个渐变遮罩，暗示还有内容-->
 .news-card::after {
   content: "";
   position: absolute;
@@ -93,40 +93,40 @@ redirect_from:
   background: linear-gradient(to bottom, rgba(252,252,252,0), rgba(252,252,252,1));
   pointer-events: none;
 }
-% 3. 模态框（弹窗背景）
+<!-- 3. 模态框（弹窗背景）-->
 .news-modal-overlay {
-  display: none; % 默认隐藏
+  display: none; <!-- 默认隐藏-->
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.6); % 半透明黑色背景
+  background-color: rgba(0, 0, 0, 0.6); <!-- 半透明黑色背景-->
   z-index: 9999;
   justify-content: center;
   align-items: center;
   padding: 20px;
-  backdrop-filter: blur(5px); /* 背景模糊效果 */
+  backdrop-filter: blur(5px); <!-- 背景模糊效果-->
 }
-% 4. 模态框内容区域（详细内容）
+<!-- 4. 模态框内容区域（详细内容）-->
 .news-modal-content {
   background-color: #fff;
   width: 100%;
-  max-width: 800px; % 最大宽度
-  max-height: 85vh; % 最大高度不超过视窗的85%
-  overflow-y: auto; % 内容多了可以滚动
+  max-width: 800px; <!-- 最大宽度-->
+  max-height: 85vh; <!-- 最大高度不超过视窗的85%-->
+  overflow-y: auto; <!-- 内容多了可以滚动-->
   border-radius: 12px;
   padding: 40px;
   position: relative;
   box-shadow: 0 10px 30px rgba(0,0,0,0.3);
   animation: modalPop 0.3s ease-out;
 }
-% 弹窗出来的动画
+<!-- 弹窗出来的动画-->
 @keyframes modalPop {
   from { transform: scale(0.9); opacity: 0; }
   to { transform: scale(1); opacity: 1; }
 }
-% 关闭按钮
+<!-- 关闭按钮-->
 .news-close-btn {
   position: absolute;
   top: 15px;
@@ -600,40 +600,40 @@ Transportation Research Part C: Emerging Technologies
 </div>
 
 <script>
-  // 获取元素
+  <!-- 获取元素-->
   var modal = document.getElementById("newsModal");
   var modalBody = document.getElementById("modalBody");
   var closeBtn = document.getElementsByClassName("news-close-btn")[0];
   var cards = document.querySelectorAll(".news-card");
 
-  // 为每个卡片添加点击事件
+  <!-- 为每个卡片添加点击事件-->
   cards.forEach(function(card) {
     card.addEventListener("click", function() {
-      // 1. 获取当前点击卡片的 HTML 内容
+      <!-- 1. 获取当前点击卡片的 HTML 内容-->
       var content = this.innerHTML;
       
-      // 2. 将内容注入到模态框中
+      <!-- 2. 将内容注入到模态框中-->
       modalBody.innerHTML = content;
       
-      // 3. 显示模态框
+      <!-- 3. 显示模态框-->
       modal.style.display = "flex";
       
-      // 4. 锁定背景滚动（可选）
+      <!-- 4. 锁定背景滚动（可选）-->
       document.body.style.overflow = "hidden";
     });
   });
 
-  // 关闭功能：点击关闭按钮
+  <!-- 关闭功能：点击关闭按钮-->
   closeBtn.onclick = function() {
     modal.style.display = "none";
-    document.body.style.overflow = "auto"; // 恢复滚动
+    document.body.style.overflow = "auto"; <!-- 恢复滚动-->
   }
 
-  // 关闭功能：点击模态框外部空白区域
+  <!-- 关闭功能：点击模态框外部空白区域-->
   window.onclick = function(event) {
     if (event.target == modal) {
       modal.style.display = "none";
-      document.body.style.overflow = "auto"; // 恢复滚动
+      document.body.style.overflow = "auto"; <!-- 恢复滚动-->
     }
   }
 </script>
