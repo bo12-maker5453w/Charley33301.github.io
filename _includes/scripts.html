@@ -5,72 +5,128 @@
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
 
-<a id="lang-switcher" class="lang-switch-btn" href="/cn/">
-    <span class="lang-text">中文</span>
-    <i class="fas fa-language"></i>
+<a id="lang-switcher" class="lang-switch-btn" href="javascript:void(0);">
+    <i class="fas fa-globe" style="font-size: 1.2em;"></i>
+    
+    <div class="lang-text-container">
+        <span class="lang-label">Current:</span>
+        <span class="lang-status">Checking...</span>
+    </div>
+    
+    <i class="fas fa-exchange-alt switch-icon"></i>
 </a>
 
 <style>
-/* 按钮基础样式 */
+/* 按钮容器 */
 .lang-switch-btn {
     position: fixed;
-    top: 20px;            /* 距离顶部 */
-    right: 20px;          /* 距离右侧 */
-    z-index: 9999;        /* 保证在最顶层 */
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
     background-color: #fff;
     color: #333;
     border: 1px solid #e1e4e8;
-    border-radius: 30px;  /* 圆角 */
-    padding: 8px 16px;
-    font-weight: bold;
-    font-size: 14px;
+    border-radius: 50px; /* 胶囊形状 */
+    padding: 8px 18px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     text-decoration: none !important;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     transition: all 0.3s ease;
     display: flex;
     align-items: center;
-    gap: 5px;
+    gap: 10px;
+    min-width: 140px; /* 保证宽度足够，文字不跳动 */
 }
 
-/* 鼠标悬停效果 */
+/* 文本区域 */
+.lang-text-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    line-height: 1.1;
+}
+
+.lang-label {
+    font-size: 0.7em;
+    color: #888;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.lang-status {
+    font-size: 0.95em;
+    font-weight: bold;
+    color: #333;
+}
+
+/* 切换图标（稍微透明一点） */
+.switch-icon {
+    font-size: 0.9em;
+    color: #aaa;
+    margin-left: auto; /* 推到最右边 */
+    transition: transform 0.3s;
+}
+
+/* 悬停效果 */
 .lang-switch-btn:hover {
-    background-color: #f6f8fa;
+    background-color: #f0f7ff; /* 浅蓝色背景 */
+    border-color: #007bff;
     transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
-    color: #007bff; /* 悬停变蓝 */
+    box-shadow: 0 6px 16px rgba(0,123,255,0.2);
 }
 
-/* 图标微调 */
-.lang-switch-btn i {
-    font-size: 1.1em;
+.lang-switch-btn:hover .lang-status {
+    color: #007bff;
 }
 
-/* 手机端适配：位置调整，避免遮挡菜单 */
+.lang-switch-btn:hover .switch-icon {
+    color: #007bff;
+    transform: rotate(180deg); /* 箭头旋转动画 */
+}
+
+/* 手机适配 */
 @media (max-width: 768px) {
     .lang-switch-btn {
         top: 15px;
-        right: 60px; /* 给右侧的菜单按钮留出位置 */
-        padding: 5px 12px;
-        font-size: 12px;
+        right: 60px; /* 给菜单按钮留位置 */
+        padding: 6px 12px;
+        min-width: auto;
+        gap: 6px;
     }
+    .lang-label { display: none; } /* 手机上隐藏 "Current" 小字，省空间 */
+    .lang-status { font-size: 0.85em; }
 }
 </style>
 
 <script>
 (function() {
     var btn = document.getElementById('lang-switcher');
-    var textSpan = btn.querySelector('.lang-text');
+    var statusText = btn.querySelector('.lang-status');
+    var labelText = btn.querySelector('.lang-label');
     var currentPath = window.location.pathname;
 
-    // 逻辑判断：
-    // 如果当前路径包含 /cn/，说明在中文版 -> 按钮显示 "English" 并指向英文主页
+    // 检测逻辑
     if (currentPath.indexOf('/cn/') > -1) {
-        textSpan.innerText = "English";
-        btn.href = "{{ '/' | relative_url }}"; // 返回英文首页
+        // === 当前在中文环境 ===
+        labelText.innerText = "当前语言";
+        statusText.innerText = "中文 Chinese"; // 明确显示当前是中文
+        
+        // 点击行为：去英文版
+        btn.onclick = function() {
+            window.location.href = "{{ '/' | relative_url }}";
+        };
+        btn.title = "点击切换到英文版 (Switch to English)"; // 鼠标停留提示
+        
     } else {
-        // 否则默认在英文版 -> 按钮显示 "中文" 并指向中文主页
-        textSpan.innerText = "中文";
-        btn.href = "{{ '/cn/' | relative_url }}"; // 前往中文首页
+        // === 当前在英文环境 ===
+        labelText.innerText = "Language";
+        statusText.innerText = "English"; // 明确显示当前是英文
+        
+        // 点击行为：去中文版
+        btn.onclick = function() {
+            window.location.href = "{{ '/cn/' | relative_url }}";
+        };
+        btn.title = "Click to switch to Chinese (切换到中文版)"; // 鼠标停留提示
     }
 })();
 </script>
