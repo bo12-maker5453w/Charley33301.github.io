@@ -26,4 +26,27 @@ main:
   - title: "People"
     url: "/#-people"
 
+cn:
+  - title: "关于我"
+    url: "/cn/#about-me"
 
+  - title: "教育经历"
+    url: "/cn/#-educations"
+
+  - title: "工作经历"
+    url: "/cn/#-professional-experiences"
+
+  - title: "科研项目"
+    url: "/cn/#-projects"
+
+  - title: "新闻动态"
+    url: "/cn/#-news"
+
+  - title: "论文发表"
+    url: "/cn/#-publications"
+  
+  - title: "荣誉奖项"
+    url: "/cn/#-honors-and-awards"
+    
+  - title: "团队成员"
+    url: "/cn/#-people"
