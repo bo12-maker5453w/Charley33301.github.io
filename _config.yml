@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chenglong Liu"
+title                    : "Cong Zhao"
 description              : "Tongji University"
-description1             : "Deputy Dean Institute of Transport Science and Technology"
+description1             : "Associate Professor, Department of Integrated Traffic Information and Control Engineering"
 description5             : "STEP课题组"
-repository               : "Charley33301/Charley33301.github.io"
+repository               : "bo12-maker5453w/Charley33301.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "刘成龙"
-  avatar           : "/images/android-chrome-512x512.png"
+  name             : "赵聪"
+  avatar           : "/images/profile.png"
   bio              : 
   bio1             : 
   bio2             : 
@@ -34,8 +34,8 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  phone            : "021-69585712"
-  email            : "14lcl_tj@tongji.edu.cn"
+  phone            : 
+  email            : "zhc@tongji.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
