@@ -271,7 +271,7 @@ Graduate: Transportation Data Analysis and Application, Theory of Sustainable Tr
 
 # 📝 Publications 
 📃 Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/18.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/18.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -282,7 +282,7 @@ Wenyuan Cai, Yuchuan Du, Difei Wu, Zihang Weng, **Chenglong Liu\***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/19.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/19.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Sensors
 
@@ -293,7 +293,7 @@ Kefei Tian, Yifan Zheng, Zhongyu Sun, Zishun Yin, Kai Zhu, **Chenglong Liu\***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/20.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/20.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Case Studies in Construction Materials
 
@@ -304,7 +304,7 @@ Yuchuan Du, Ziyue Gao, **Chenglong Liu\***, Zihang Weng\*, Xiangyu Ren, Wenxiang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/21.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Measurement
 
@@ -315,7 +315,7 @@ Shan Zhong, Difei Wu, Yuchuan Du, Yu Yan, **Chenglong Liu**, Zihang Weng, Guoqin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/22.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Computer‐Aided Civil and Infrastructure Engineering
 
@@ -326,7 +326,7 @@ Difei Wu, Sheng Zhong, Man Io Leong, Yishun Li, Boyuan Tian, **Chenglong Liu**, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src="{{ '/images/1.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 International Journal of Pavement Engineering
 
@@ -337,7 +337,7 @@ Difei Wu, **Chenglong Liu**,Bohao Qin, Sheng Zhong, Xiaoming Zhang, Yuchuan Du
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src="{{ '/images/2.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Automation in Construction
 
@@ -348,7 +348,7 @@ Automation in Construction
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/3.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE transactions on intelligent transportation systems
 
@@ -361,7 +361,7 @@ Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
 
 <details>
   <summary style="cursor: pointer; color: #007bff; font-weight: bold; margin: 20px 0;">👉 Click to view Past Publications (点击查看往期论文)</summary>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/4.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Computer‐Aided Civil and Infrastructure Engineering
 
@@ -372,7 +372,7 @@ Ning Pan, Hao Liu, Difei Wu, **Chenglong Liu**, Yuchuan Du
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/5.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Computer‐Aided Civil and Infrastructure Engineering
 
@@ -383,7 +383,7 @@ Computer‐Aided Civil and Infrastructure Engineering
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/6.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 International Journal of Transportation Science and Technology(IJTST)
 
