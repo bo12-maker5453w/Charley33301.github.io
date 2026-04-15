@@ -1,5 +1,5 @@
 ﻿---
-permalink: /cn/
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
