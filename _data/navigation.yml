@@ -4,13 +4,13 @@ main:
     url: "/en/#about-me"
 
   - title: "Educations"
-    url: "/en/#-educations"
+    url: "/en/#educations"
 
   - title: "Professional Experiences"
-    url: "/en/#-professional-experiences"
+    url: "/en/#professional-experiences"
 
   - title: "Projects"
-    url: "/en/#-projects"
+    url: "/en/#projects"
     
 # 新增 News 模块
   - title: "News"
@@ -34,13 +34,13 @@ cn:
     url: "/#about-me"
 
   - title: "教育经历"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "工作经历"
-    url: "/#-professional-experiences"
+    url: "/#professional-experiences"
 
   - title: "科研项目"
-    url: "/#-projects"
+    url: "/#projects"
 
   - title: "新闻动态"
     url: "/#-news"

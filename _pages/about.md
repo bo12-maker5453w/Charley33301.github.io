@@ -25,21 +25,21 @@ Focusing on typical scenarios with clear application demands and controllable re
 
 Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transportation Economics, and Traffic Technology Competition. He has guided undergraduate students to win the First Prize of the National Transportation Science and Technology Competition, the First Prize of the National University Intelligent Transportation Innovation and Entrepreneurship Competition, and other honors. Many undergraduate and graduate students mentored by him have graduated and pursued further studies in world-class universities at home and abroad such as UC Berkeley, MIT, Tsinghua University, and Peking University.
 
-<span class='anchor' id='-educations'></span>
+<span class='anchor' id='educations'></span>
 # 📖 Educational Background
 - *2010.09 - 2014.07*, [Tongji University](https://www.tongji.edu.cn/), Traffic Engineering, Bachelor's Degree.
 - *2014.09 - 2017.07*, [Tongji University](https://www.tongji.edu.cn/), Transportation Engineering, Master's Degree.
 - *2018.11 - 2019.12*, [University of California, Berkeley](https://www.berkeley.edu/), Transportation Research Institute, Joint PhD Student.
 - *2017.09 - 2020.08*, [Tongji University](https://www.tongji.edu.cn/), Transportation Engineering, Doctor's Degree.
 
-<span class='anchor' id='-professional-experiences'></span>
+<span class='anchor' id='professional-experiences'></span>
 
 💻 Professional Experience
 - *2020.11 - 2024.02*, [Tongji University](https://www.tongji.edu.cn/), College of Transportation, Postdoctoral Fellow (Supervisor: Academician Jifeng He).
 - *2024.03 - Present* , [Tongji University](https://www.tongji.edu.cn/), College of Transportation, Associate Professor.
 - *2025.01 - Present* , Seconded to the Department of Infrastructure Development, National Development and Reform Commission.
 
-<span class='anchor' id='-projects'></span>
+<span class='anchor' id='projects'></span>
 
 # 🔍 Research Projects
 <!-- Supplement your project content -->

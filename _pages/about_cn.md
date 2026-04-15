@@ -25,20 +25,20 @@ redirect_from:
 
 主讲交通数据分析、运输经济学、交通科技竞赛等交叉学科课程。指导本科生获得全国交通科技大赛一等奖、全国高校智能交通创新与创业大赛一等奖等荣誉。指导的多位本科生、研究生毕业赴UC-Berkeley、MIT、清华大学、北京大学等国内外一流高校深造。
 
-<span class='anchor' id='-educations'></span>
+<span class='anchor' id='educations'></span>
 # 📖 教育经历
 - *2010.09 - 2014.07*, [同济大学](https://www.tongji.edu.cn/), 交通工程, 学士.
 - *2014.09 - 2017.07*, [同济大学](https://www.tongji.edu.cn/), 交通运输工程, 硕士.
 - *2018.11 - 2019.12*, [加州大学伯克利分校](https://www.berkeley.edu/), 交通研究院, 联合培养博士.
 - *2017.09 - 2020.08*, [同济大学](https://www.tongji.edu.cn/), 交通运输工程, 博士.
 
-<span class='anchor' id='-professional-experiences'></span>
+<span class='anchor' id='professional-experiences'></span>
 # 💻 工作经历
 - *2020.11 - 2024.02*, [同济大学](https://www.tongji.edu.cn/), 交通学院, 博士后（导师：何积丰院士）.
 - *2024.03 - Present* , [同济大学](https://www.tongji.edu.cn/), 交通学院, 副教授.
 - *2025.01 - Present* , 国家发展和改革委员会, 基础设施发展司, 借调.
 
-<span class='anchor' id='-projects'></span>
+<span class='anchor' id='projects'></span>
 
 # 🔍 科研项目
 <!-- 补充你的项目内容 -->
