@@ -183,11 +183,9 @@ redirect_from:
       </p>
     </div>
 </div>
-
 </div>
 
-
-<div style="height: 28px;"></div>
+<div style="height: 24px;"></div>
 <span class='anchor' id='-publications'></span>
 # 📝 发表论文
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/paper_35.png' | relative_url }}" alt="sym" width="100%"></div></div>
