@@ -252,11 +252,11 @@ Cailin Lei, **Cong Zhao\***, Kun Chen, Yuxiong Ji\*, Yuchuan Du
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src="{{ '/images/paper_30.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/paper_30.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Computer-Aided Civil and Infrastructure Engineering
 
-[Skill‐abstracting continual reinforcement learning for safe, efficient, and comfortable autonomous driving through vehicle–cloud collaboration](https://doi.org/10.1111/mice.13503)
+🔥`New！`[Skill‐abstracting continual reinforcement learning for safe, efficient, and comfortable autonomous driving through vehicle–cloud collaboration](https://doi.org/10.1111/mice.13503)
 
 Jing Chen, **Cong Zhao\***, Kun Gao\*, Yuxiong Ji, Yuchuan Du 
 
@@ -267,7 +267,7 @@ Jing Chen, **Cong Zhao\***, Kun Gao\*, Yuxiong Ji, Yuchuan Du
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
-`New！`[Safety field-based vehicle-infrastructure cooperative perception for autonomous driving using 3d point clouds](https://doi.org/10.1109/tits.2025.3546980)
+🔥`New！`[Safety field-based vehicle-infrastructure cooperative perception for autonomous driving using 3d point clouds](https://doi.org/10.1109/tits.2025.3546980)
 
 **Cong Zhao**, Delong Ding, Cailin Lei\*, Shiyu Wang, Yuxiong Ji\*, Yuchuan Du
 
@@ -278,7 +278,7 @@ IEEE Transactions on Intelligent Transportation Systems
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
-`New！`[Accelerated Testing and Evaluation for Black-Box Autonomous Driving Systems via Adaptive Markov Chain Monte Carlo](https://doi.org/10.1109/tits.2024.3525059)
+🔥`New！`[Accelerated Testing and Evaluation for Black-Box Autonomous Driving Systems via Adaptive Markov Chain Monte Carlo](https://doi.org/10.1109/tits.2024.3525059)
 
 Yuxiong Ji, Zhongke Xu, **Cong Zhao\***, Kun Chen, Yuchuan Du
 
