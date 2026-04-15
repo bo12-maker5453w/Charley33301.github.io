@@ -17,48 +17,39 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Chenglong Liu is currently a Research Fellow and Associate Professor at the College of Transportation Engineering, Tongji University, where he also serves as the Deputy Dean of the Institute of Transport Science and Technology. He has been selected for several prestigious talent programs, including the National Science Fund for Excellent Young Scholars (Type B), the Shanghai "35 Under 35" Technology Leaders, the Shanghai Rising-Star Program, and the Young Elite Scientists Sponsorship Program by the China Highway and Transportation Society (CHTS).
-Dr. Liu’s research focuses on the interdisciplinary intersection of Road Engineering and Information Engineering, with a specific emphasis on the digital operation and maintenance (O&M) management of transportation infrastructure.
-He serves as an appointed consultant for the United Nations in the field of transportation and holds technical committee memberships in the World Transport Convention (WTC), the Transportation Research Board (TRB), and the China Transportation Association (CTA). He was a lead author for the Energy-saving and New Energy Vehicle Technology Roadmap. Additionally, he serves as a Young Editorial Board Member for the International Journal of Transportation Science and Technology (JCR-Q1) and is an invited reviewer for over 60 SCI-indexed journals.
+Dr. Cong Zhao is an Associate Professor at the School of Transportation, Tongji University, and holds a joint Ph.D. from the University of California, Berkeley. His research focuses on AI + Transportation Information and Control, as well as Vehicle-Infrastructure Integration and Autonomous Driving. He has been selected for the Young Talent Support Program of the China Association for Science and Technology, the Shanghai Youth Science and Technology Star Program (Class A), and the Oriental Elite Young Talent Program, among others. Dr. Zhao serves as a member of the Autonomous Driving Working Committee of the China Highway and Transportation Society, and a member of the Technical Committee on Autonomous Driving Road-Vehicle Collaboration of the World Transport Convention (WTC). He previously held a temporary position at the National Development and Reform Commission, where he participated in the compilation of the "15th Five-Year Plan" for the development of modern comprehensive transportation and the "15th Five-Year Plan" for highway development. He was also the main drafter of the intelligent connected vehicle part of the "Energy-Saving and New Energy Vehicle Technology Roadmap 3.0", actively serving national strategies and the high-quality development of the industry.
 
-Dr. Liu has published over 100 research papers in top-tier journals and conferences, including AIC、Transport Res. C、IEEE Trans. ITS, and the China Journal of Highway and Transport.
-Multiple research outcomes have been selected as IEEE ITSM Cover Papers, Annual Excellent Papers of China Journal of Highway and Transport, ESI Highly Cited Papers, ESI Hot Papers, CNKI Highly Cited/Downloaded/High PCSI Papers, Major Scientific and Technological Achievements of the Ministry of Transport, and COTA Best Presentation Awards. Related achievements have been granted over 40 patents in China, the United States, the United Kingdom, and international patents. He has been honored with the China Patent Excellence Award and the Shanghai Top 100 High-Value Patents. His work has achieved result transformation and industrial application worth over 10 million RMB, covering more than 400,000 kilometers across over 20 provinces in China. He has received awards including the First Prize of the Shanghai Science and Technology Progress Award, the Grand Prize/First Prize of the Science and Technology Award of the China Highway and Transportation Society, the First Prize of the Science and Technology Progress Award of the China Transportation Association, and the First Prize for Invention and Innovation by the China Invention Association.
+In the past five years, Dr. Zhao has published 45 papers as first or corresponding author in leading interdisciplinary journals across transportation, automotive engineering, artificial intelligence, control systems, and management. This includes 21 papers in top-tier Q1 journals (IF≥7.4), 11 ESI Highly Cited Papers, and 2 ESI Hot Papers. His papers have been selected as the Annual Excellent Paper of the "China Journal of Highway and Transport" (ranked first in the discipline by impact factor) and the Major Science and Technology Innovation Achievement of Transportation (Paper Category). He has been granted 15 Chinese invention patents and 6 British patents as the first inventor, and some patents have achieved technology transformation through authorized use. He participated in the compilation of the Shanghai local standard "Technical Requirements for the Operation of Autonomous Driving Container Trucks in Ports", the first set of series standards (5 in total) for the functional credibility evaluation method of vehicle-infrastructure integrated autonomous driving systems issued by the China Society of Automotive Engineers, and the standard specification "Resilient Transportation Cyber-Physical System Architecture for Urban Transportation" issued by the China Intelligent Transportation Association. His achievements have attracted extensive attention from peers at home and abroad and have received positive citations and evaluations from experts such as academicians of the Chinese Academy of Engineering, academicians of the US National Academy of Engineering, academicians of the European Academy of Sciences, academicians of the Canadian Academy of Engineering, and IEEE Fellows.
 
-He teaches interdisciplinary courses such as AI Science and Technology, Transportation Data Analysis, Computer Vision, and Transportation Technology Competitions, and won the First Prize in the Young Teachers' Teaching Competition at Tongji University. He has supervised undergraduate and graduate students to win the First Prize in the National Undergraduate Transportation Science and Technology Competition, the Track Champion of the SODIC Global Open Data Application Innovation Contest, the First Prize in the Yangtze River Delta Open Data Innovation Application Competition, and the Silver Award in the National "Internet+" College Students Innovation and Entrepreneurship Competition (Gold Award in Shanghai). Many of the undergraduate and graduate students he supervised have gone on to further studies at top domestic and international universities such as UC Berkeley, Cambridge, Tsinghua University, Peking University, and Tongji University.
+Focusing on typical scenarios with clear application demands and controllable regional boundaries such as smart ports, smart highways, and autonomous parking, Dr. Zhao has carried out industry-university-research collaborative modular development, system integration, and application promotion of the basic research achievements "Trustworthy Perception - Collaborative Cognition - Pilot Control". He pioneered an indoor and outdoor integrated berth-level navigation system and an autonomous valet parking system, which have been applied on a large scale in more than 100 large parking lots in cities such as Beijing, Shanghai, Guangzhou, and Shenzhen. Furthermore, his work effectively supports the research and development of port automation transportation systems and their systematic construction, having been successfully implemented in important domestic and foreign ports such as Shanghai Port (with the world's largest throughput for 15 consecutive years) and Peru's Chancay Port (a landmark project of the "Belt and Road Initiative"). As a key contributor, his project "Key Technologies and Applications of Global Digitization and Management Intelligence of Urban Parking" won the First Prize of the Shanghai Science and Technology Progress Award (ranked 2nd, 2022), and the project "Key Technologies and Applications of Holographic Trustworthy Perception and Dynamic-Static Collaborative Regulation of Intelligent Road Network Traffic" won the First Prize of the Invention and Innovation Award of the China Invention Association (ranked 1st, 2024).
 
-Research Interests: Digital Sensing of Infrastructure, Digital Twins, Smart Cities, AI Applications
+Dr. Zhao teaches interdisciplinary courses such as Traffic Data Analysis, Transportation Economics, and Traffic Technology Competition. He has guided undergraduate students to win the First Prize of the National Transportation Science and Technology Competition, the First Prize of the National University Intelligent Transportation Innovation and Entrepreneurship Competition, and other honors. Many undergraduate and graduate students mentored by him have graduated and pursued further studies in world-class universities at home and abroad such as UC Berkeley, MIT, Tsinghua University, and Peking University.
 
-Courses Taught: 
-Undergraduate: AI Science and Technology (Information & Intelligent Connectivity), Computer Vision, Fundamentals of Intelligent Transportation, Intelligent Transportation Systems, Transport Economics (Chinese/English), Transportation Technology Innovation Competition 
-Graduate: Transportation Data Analysis and Application, Theory of Sustainable Transportation Development, Environmentally Friendly Pavement Technology (UNEP)
+<span class='anchor' id='educations'></span>
 
+# 📖 Educational Background
+- *2010.09 - 2014.07*, [Tongji University](https://www.tongji.edu.cn/), Traffic Engineering, Bachelor's Degree.
+- *2014.09 - 2017.07*, [Tongji University](https://www.tongji.edu.cn/), Transportation Engineering, Master's Degree.
+- *2018.11 - 2019.12*, [University of California, Berkeley](https://www.berkeley.edu/), Transportation Research Institute, Joint PhD Student.
+- *2017.09 - 2020.08*, [Tongji University](https://www.tongji.edu.cn/), Transportation Engineering, Doctor's Degree.
 
-# 📖 Educations
-- *2010.09 - 2014.06*, [Tongji University](https://www.tongji.edu.cn/), B.E. in Traffic Engineering.
-- *2017.09 - 2018.09*, [University of Washington](https://www.washington.edu/), Joint Ph.D. Student in Civil & Environmental Engineering.
-- *2014.09 - 2019.06*, [Tongji University](https://www.tongji.edu.cn/), Ph.D. in Transportation Engineering.
+<span class='anchor' id='professional-experiences'></span>
 
-# 💻 Professional Experiences
-- *2019.12 - 2022.12*, [Tongji University](https://www.tongji.edu.cn/), Postdoctoral Fellow, College of Transportation.
-- *2021.05 - 2024.03*, [Tongji University](https://www.tongji.edu.cn/), Associate Research Fellow, College of Transportation.
-- *2023.02 - Present*   , [Tongji University](https://www.tongji.edu.cn/), Associate Professor, College of Transportation.
-- *2024.01 - Present* ,   [Tongji University](https://www.tongji.edu.cn/), Deputy Dean, Institute of Transport Science and Technology.
-- *2024.03 - Present* ,   [Tongji University](https://www.tongji.edu.cn/), Research Fellow (Professor Level), College of Transportation.
+💻 Professional Experience
+- *2020.11 - 2024.02*, [Tongji University](https://www.tongji.edu.cn/), College of Transportation, Postdoctoral Fellow (Supervisor: Academician Jifeng He).
+- *2024.03 - Present* , [Tongji University](https://www.tongji.edu.cn/), College of Transportation, Associate Professor.
+- *2025.01 - Present* , Seconded to the Department of Infrastructure Development, National Development and Reform Commission.
 
-# 🔍 Projects
-- 🔥`New！`国家自然科学基金交叉科学部青年B类项目, 主持
-- 🔥`New！`国家自然科学基金面上项目, 知识启发的生成式道路养护决策方法研究, 主持
-- 国家重点研发计划(2023), 智能网联道路交通系统的能源自洽技术, 子课题主持
-- 上海市科技创新行动计划(2023), 道路基础设施多维体征的数字化感知与评价方法研究, 主持
-- 国家重点研发计划(2022), 弹性交通系统信息物理体系构建, 子课题主持
-- 国家自然科学基金(2022), 众筹数据驱动的城市路网平整度感知方法研究, 主持
-- 上海市科技创新行动计划(2021), 复杂地下道路韧性运行与智慧防灾关键技术研究与示范, 子课题主持
-- 浙江省道桥检测与养护技术研究重点实验室基金(2021), 基于时空数据匹配的路面服役状态大数据评价技术, 主持
-- 国家重点研发计划(2019), 港珠澳大桥智能化运维技术集成应用, 项目骨干
+<span class='anchor' id='projects'></span>
 
+# 🔍 Research Projects
+<!-- Supplement your project content -->
+- *YYYY.MM - YYYY.MM*, [Project Name](https://example.com/) (Funding/Level), Role, Project Description.
+- *YYYY.MM - YYYY.MM*, [Project Name](https://example.com/) (Funding/Level), Role, Project Description.
+
+<span class='anchor' id='news'></span>
 
 # 📰🔥 News
-
 <style>
 /* 1. 新闻容器：弹性布局 */
 .news-grid {
@@ -168,385 +159,463 @@ Graduate: Transportation Data Analysis and Application, Theory of Sustainable Tr
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
-      <span style="vertical-align: middle;">刘成龙副教授获批国家自然科学基金交叉科学部青年B类项目</span>
+      <span style="vertical-align: middle;">赵聪入选上海科技启明星计划（A类）</span>
     </div>
     <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
-      <p>近日，国家自然科学基金委员会公布了2025年度项目评审结果，同济大学智能交通新兴计算与感知课题组（STEP）刘成龙副教授申报的国家自然科学基金青年科学基金B类项目（原国家优青项目）顺利获批。这是团队在交通基础设施数字化运维管理领域长期科研积累与创新贡献的充分肯定。</p>
-      <p>刘成龙副教授长期致力于道路工程与信息工程交叉研究，在交通基础设施数字化感知、智能诊断与运维决策方面取得了系列创新成果，研究成果在AIC、Transport Res. C、IEEE Trans. ITS、中国公路学报等高水平期刊会议发表研究论文100余篇，多项研究成果相继被遴选为IEEE ITSM封面论文、中国公路学报年度优秀论文、ESI高被引论文、ESI热点论文、中国知网高被引、高下载、高PCSI论文、交通部重大科技成果、COTA Best Presentation Award等。相关成果获授权中国、美国、英国、国际专利40余项，荣获中国专利优秀奖、上海市百强高价值专利，并实现了千万级成果转化与产业化应用。获得上海市科技进步一等奖、中国公路学会科学技术一等奖、中国交通运输协会科学进步一等奖、中国发明协会发明创新一等奖等奖励。</p>
-      <p>此次立项将进一步推动课题组在智能交通基础设施数字化与智慧运维方向的科研布局，助力我国交通基础设施高质量发展。课题组全体成员对刘成龙副教授表示热烈祝贺，并期待项目顺利实施，取得更多突破性成果。</p>
+      <p>赵聪副教授申报的《车路云一体化架构下自主泊车车车融合增强与运行优化研究》成功入选2024年度上海市青年科技启明星计划（A类）。</p>
+      <p>项目瞄准"停车难"痛点，以车路云一体化破解自主泊车落地瓶颈。</p>
+      <p>此次入选标志着其创新能力和工程转化成果获高度认可。</p>
     </div>
-  </div>
+</div>
 
-  <div class="news-card">
-    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
-      <span style="vertical-align: middle;">团队与斯坦福大学合作成果发表于Nature子刊《Scientific Data》</span>
-    </div>
-    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
-      <p>团队联合斯坦福大学Martin Fischer教授团队共同完成的研究成果——《A Large-Scale Image Repository for Automated Pavement Distress Analysis and Degradation Trend Prediction》（大规模自动化路面病害分析与退化趋势预测图像库）及其配套数据集 PaveTrack，正式发表于Nature旗下期刊 Scientific Data。</p>
-      <p>该论文的第一作者为同济大学交通运输工程学院2024级硕士研究生杨瀚霖，刘成龙副教授与杜豫川教授担任共同通讯作者。</p>
-      <p>PaveTrack 数据集收录了来自中国与美国的近6万张路面病害图像，覆盖裂缝、坑槽、龟裂等10类病害，共计18万条精细标注信息。同时，团队首次公开了约9000张病害发育动态追踪图像，对165个道路位点进行了连续检测与跟踪，为深入揭示路面病害演化机理及退化趋势预测提供了坚实的数据支撑。</p>
-      <p>目前，PaveTrack 数据集已在 Science Data Bank 正式开放，研究人员可通过以下<a href="https://doi.org/10.57760/sciencedb.20383">链接</a>获取。</p>
-    </div>
-  </div>
-
+<!-- 新闻1：青年优秀人才培养行动计划 -->
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
-      <span style="vertical-align: middle;">团队成果《新一代智慧高速公路系统架构设计》入选2025领跑者5000（F5000）顶尖论文</span>
+      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
+      <span style="vertical-align: middle;">赵聪入选同济大学青年优秀人才培养行动计划</span>
     </div>
     <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
-      <p>近日，中国科学技术信息研究所发布了2025年度“领跑者5000-中国精品科技期刊顶尖学术论文”（简称F5000）入选名单。由团队杜豫川教授作为第一作者，刘成龙副教授作为通讯作者，在《中国公路学报》发表的《新一代智慧高速公路系统架构设计》一文入选2025领跑者5000（F5000）顶尖论文。</p>
-      <p>该成果以前瞻性的系统思维重新定义了智慧高速的顶层架构，为国家高速公路的数字化转型和代际演进提供了具有前瞻性的理论框架和技术蓝图，此前，该成果已入选高被引、高影响、高PCSI论文，获得中国公路学报年度优秀论文。</p>
-      <p>根据《中国科技论文与引文数据库》信息，采用定量分析（5年被引次数）和定性分析相结合的方法，对学术期刊的质量和影响力进行科学评价，遴选出精品科技期刊。每种精品期刊从5年间发表的论文中择优选取不超过20篇学术论文作为F5000的提名论文。提名论文再经过进一步遴选才能成为F5000论文。入选论文要求为各学科前1%高被引论文，且为原创性的科学研究或技术创新成果，能够反映期刊所在学科领域的最高学术水平。</p>
+      <p>赵聪副教授凭借在智能交通与车路协同领域的突出研究成果，成功入选同济大学青年优秀人才培养行动计划。</p>
+      <p>该计划旨在支持具有创新潜力的青年学者开展高水平科学研究与学术交叉探索。</p>
+      <p>此次入选体现了学院与学校对其科研能力与发展潜力的高度认可。</p>
     </div>
-  </div>
+</div>
 
+<!-- 新闻2：青年教师教学竞赛一等奖 -->
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
-      <span style="vertical-align: middle;">团队成果“数字路长”智能管养平台入选“数据要素×交通AI+城市与交通典型案例”</span>
+      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
+      <span style="vertical-align: middle;">赵聪荣获2025年同济大学青年教师教学竞赛一等奖</span>
     </div>
     <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
-      <p>近日，由同济大学智能交通新兴计算与感知课题组（STEP）自主研发的“数字路长”智能管养平台，成功入选由国家多部委联合评选的“数据要素×交通AI+城市与交通”典型案例。该评选面向全国，旨在发掘具有标杆意义的创新应用。此次全国共31个案例入选，“数字路长”平台的入选，标志着其创新价值与实践成效获得了国家层面的高度认可。</p>
-      <p>“数字路长”平台由团队牵头，联合上海同陆云交通科技有限公司协力打造，构建了一套“感-联-算-控”一体化的交通基础设施数字治理新体系。平台深度融合物联网、大数据与人工智能技术，实现了对道路资产、路面病害、交通运行状态的全息感知与智能诊断，从根本上改变了传统依赖人工巡查、经验决策的粗放式管养模式。</p>
-      <p>该项目直击传统路面管养中响应速度慢、监测盲区多等行业痛点，通过构建“数字路长”综合平台，成功打通了从海量数据采集、多维智能分析到科学决策支持的全链路闭环。该成果不仅仅是单点技术的落地应用，更以前瞻性的系统思维，为现代城市交通治理提供了一套可复制、可推广的数字化范本。此次入选标志着该平台在商业潜力与社会效益方面获得了双重肯定。团队将以此为契机，进一步深化数据要素在交通基础设施运维中的深度赋能，推动城市交通管养向数字化、智能化转型。</p>
+      <p>在2025年同济大学青年教师教学竞赛中，赵聪副教授表现优异，荣获一等奖。</p>
+      <p>其授课内容严谨生动，教学方法创新高效，获得评审专家与学生的一致好评。</p>
+      <p>此项荣誉是对其教学能力、课程设计与课堂实践的充分肯定。</p>
     </div>
-  </div>
-
-<div class="news-card">
-    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
-      <span style="vertical-align: middle;">《交通科技竞赛》课程获评“国家一流本科课程（社会实践类）”</span>
-    </div>
-    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
-      <p>近日，教育部公布了国家级一流本科课程认定结果，由杜豫川、暨育雄、沈煜、刘成龙教授主讲的《交通科技竞赛》课程凭借其创新的教学模式与显著的育人成效，成功获批国家级一流本科课程（社会实践类）。这是团队在深化科教融合、探索创新型人才培养模式方面取得的又一重要突破。</p>
-      <p>课程立足交通学科多学科交叉特质，设计了思维模式、技能拓展、创新活动三大教学模块，实现创新能力的“矩阵乘积式”培养，创新设置“揭榜挂帅”与“赛事贯通”的实践教学形式，组建校企导师联合培养机制，解决创新创业实践应用的“最后一公里”难题。</p>
-      <p>课程的成功获评，是对其创新理念与卓越成效的高度认可。作为教育部“双万计划”的核心组成部分，这一称号代表了国家层面对本科课程质量的最高标准认定。评审过程极为严格，遵循“质量为本、优中选优”的原则，在数万门申报课程中，全国仅有不到6000门课程最终入选。《交通科技竞赛》正是凭借其彻底打破课堂与实践壁垒的“研赛结合”教学模式，精准契合了国家对拔尖创新人才培养的战略导向，从而在激烈的竞争中脱颖而出。</p>
-      <p>此次获批国家一流课程，是对团队长期坚持立德树人、潜心教学改革的充分肯定。课题组将继续坚持以学生为中心，持续提升课程建设质量，为我国交通强国建设培养更多卓越工程人才。</p>
-    </div>
-  </div>
-
-<div class="news-card">
-    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
-      <span style="vertical-align: middle;">团队发布垂直大模型“同济小图”，在河北实现行业应用突破</span>
-    </div>
-    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
-      <p>同济大学智能交通新兴计算与感知课题组（STEP）在交通垂直大模型领域取得重要工程化进展，自主研发的交通行业垂直大模型“同济小图”近期在河北省交通运输规划与管理部门成功部署应用，标志着通用人工智能（AI）技术在交通这一垂直行业的深度“驯化”与落地迈出了关键一步。</p>
-      <p>“同济小图”针对交通行业政策法规繁杂、技术标准众多、知识更新迅速、决策分析多维等核心痛点，通过对海量行业文本、标准规范、技术报告和地理信息数据进行专业化训练与精调，使其具备了精准的语义理解、智能问答、报告生成与辅助决策能力。在河北的实际应用中，它有效解决了基层技术人员知识检索效率低、跨领域决策支持弱等长期难题，成为提升行业智能化水平的“专家级助手”。</p>
-      <p>该项目的成功落地，不仅证明了团队将前沿AI算法与深厚行业知识深度融合的工程化能力，更为交通行业的数字化转型探索出一条切实可行的路径。它意味着大模型技术不再局限于通用场景，而是能够深度融合行业知识，为解决特定领域的复杂问题提供精准、可靠的“大脑”支持，具有重大的行业示范价值和广阔的推广前景。</p>
-    </div>
-  </div>
-
-<div class="news-card">
-    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
-      <span style="vertical-align: middle;">团队自研“轻量化路面巡查系统”获新加坡陆路交通管理局（LTA）权威认证</span>
-    </div>
-    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
-      <p>同济大学智能交通新兴计算与感知课题组（STEP）在高端智能检测装备“出海”方面取得里程碑式突破。由团队自主研发的“轻量化路面巡查系统”，正式通过新加坡陆路交通管理局（Land Transport Authority, LTA）的严苛技术认证，获准在新加坡市场推广与应用。</p>
-      <p>新加坡LTA以其国际公认的最高标准与最严苛的认证体系著称。此次认证的通过，是对该系统在检测精度、设备稳定性、数据可靠性及标准化程度等方面达到国际一流水准的权威背书。该系统创新性地集成了高精度视觉传感器与边缘计算AI单元，可在车辆正常行驶中无感化、高频次地完成路面病害自动化检测，具有成本低、效率高、易部署的显著优势。</p>
-      <p>这不仅仅是一张市场准入证书，更是中国原创高端交通检测装备技术成功打入发达国家高端市场的关键一步，打破了该领域长期由国际巨头主导的技术与市场壁垒。它有力证明了团队的“轻量化”技术理念与工程方案具备极强的国际竞争力和全球普适性，为课题组后续开拓“一带一路”沿线乃至欧美高端市场奠定了坚实的基础，是中国智造“走出去”的生动实践。</p>
-    </div>
-  </div>
-
-<div class="news-card">
-    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
-      <span style="vertical-align: middle;">团队承担联合国亚太经社会（UNESCAP）重大项目，贡献区域互联互通“中国方案”</span>
-    </div>
-    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
-      <p>同济大学智能交通新兴计算与感知课题组（STEP）积极参与全球交通治理，服务联合国可持续发展目标。刘成龙教授应联合国亚洲及太平洋经济社会委员会（UNESCAP）邀请，主持地域能力提升项目“Accelerating Collective Action in the Third Decade of the Programme of Action for Landlocked Developing Countries (2024–2034) through Strengthening Operational Connectivity along the Asian Highway Network and its Connections” 。</p>
-      <p>该项目聚焦于解决内陆发展中国家的核心发展瓶颈，针对跨境物流效率低下与交通连通性不足等问题，提出可持续的智能立体交通系统建设方案。凭借在跨境交通走廊数字化、智慧物流和交通韧性提升领域的深厚积累，为覆盖超过14万公里的亚洲公路网提供了关键的数字化与智能化提升方案，助力制定提升亚洲公路网运输效率与可靠性的技术指南。</p>
-      <p>联合国亚太经社会（UNESCAP）作为联合国系统中在亚太地区最重要、最具影响力的政府间综合性经济社会发展组织，其设立的项目旨在凝聚成员国共识，推动解决区域最紧迫的发展难题，代表该领域最高层次的国际合作与实践标准。通过将中国在交通基础设施数字化、智能化运维领域的先进经验与实践成果系统性地推向国际，团队为促进区域经济一体化、落实联合国2030年可持续发展议程贡献了不可或缺的“中国智慧”与“智库力量”。</p>
-    </div>
-  </div>
-
-<div class="news-card">
-    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
-      <span style="vertical-align: middle;">团队获批高峰学科重点交叉项目，前瞻布局“低空经济”基础设施新赛道</span>
-    </div>
-    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
-      <p>近日，依托同济大学高峰学科建设支持，刘成龙教授牵头的《无线电能驱动的电气化、模块化低空基础设施》项目正式获批立项。该项目敏锐捕捉“低空经济”这一国家战略新兴赛道的关键痛点，是交通工程与电气工程深度交叉融合的创新尝试。</p>
-      <p>项目创造性地提出利用无线电能传输技术解决低空飞行器的能源补给难题，并正在探索一种全新的、模块化的基础设施形态。这一研究以前瞻性的视角，为未来三维立体交通网络的构建提供了重要的物理基础和理论支撑。</p>
-      <p>该项目的启动实施，具有前瞻性的战略意义。它不仅是多学科深度交叉融合的典范，更是团队从传统地面交通向未来三维立体智慧交通网络进行前沿探索的关键布局。通过为解决低空飞行器的航程焦虑与充电难题提供原创性的“同济方案”，项目旨在为构建安全、高效、绿色的城市空中交通系统提供至关重要的物理基础与理论技术储备，助力我国在全球低空科技革命中占据先机。</p>
-    </div>
-  </div>
+</div>
   
 </div>
 
 # 📝 Publications 
-📃 Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/18.png' | relative_url }}" alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/paper_35.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
-🔥`New！`[Engineering-Adaptive Pavement Maintenance Decision-Making Model: A Reinforcement Learning Approach From Expert Feedback](https://ieeexplore.ieee.org/abstract/document/10934967)
+🔥`New！`[BELT-Fusion: Bayesian Evidential Late Fusion for Trustworthy V2X Perception](https://doi.org/10.1109/tits.2025.3625597)
 
-Wenyuan Cai, Yuchuan Du, Difei Wu, Zihang Weng, **Chenglong Liu\***
+Zhiguo Zhao, **Cong Zhao\***, Kun Chen, Yuxiong Ji\*, Yuchuan Du
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/19.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/paper_34.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Sensors
+IEEE Transactions on Intelligent Transportation Systems
 
-🔥`New！`[A Comprehensive Framework for Evaluating Cycling Infrastructure: Fusing Subjective Perceptions with Objective Data](https://doi.org/10.3390/s25041168)
+🔥`New！`[PMI-Transformer: Parking Memory Interaction Transformer for Vehicle Intent Prediction via Cooperative Vehicle-Infrastructure Systems](https://doi.org/10.1109/tits.2025.3614199)
 
-Kefei Tian, Yifan Zheng, Zhongyu Sun, Zishun Yin, Kai Zhu, **Chenglong Liu\***
+**Cong Zhao**, Tianyi Ji\*, Andi Song, Yuxiong Ji, Chao Wang, Yuchuan Du\*
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/20.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/paper_33.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Case Studies in Construction Materials
+IEEE Transactions on Intelligent Transportation Systems
 
-🔥`New！`[Comprehensive review on greenhouse gas emission assessment over the full life-cycle of pavement](https://doi.org/10.1016/j.cscm.2025.e04407)
+🔥`New！`[Uncertainty-aware multi-vehicle detection and tracking using roadside 3D point clouds](https://doi.org/10.1109/tits.2025.3586875)
 
-Yuchuan Du, Ziyue Gao, **Chenglong Liu\***, Zihang Weng\*, Xiangyu Ren, Wenxiang Li
+Kun Chen, **Cong Zhao\***, Yuxiong Ji\*, Chao Wang, Yuchuan Du
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/21.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/paper_32.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Measurement
+IEEE Transactions on Intelligent Transportation Systems
 
-🔥`New！`[Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)
+🔥`New！`[A data-driven and kinematics-aware approach to reconstruct full-sample vehicle trajectories from low-quality roadside perception data](https://doi.org/10.1109/tits.2025.3580549)
 
-Shan Zhong, Difei Wu, Yuchuan Du, Yu Yan, **Chenglong Liu**, Zihang Weng, Guoqing Wang, Fei Xu
+Zimu Zeng, **Cong Zhao\***, Shiyu Wang, Yuxiong Ji, Chao Wang, Yuchuan Du
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/22.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src="{{ '/images/paper_31.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Computer‐Aided Civil and Infrastructure Engineering
+Transportmetrica A: Transport Science
 
-🔥`New！`[A cooperative methodology for multi‐roller automation in pavement construction considering trajectory planning and collaborative operation](https://doi.org/10.1111/mice.13347)
+🔥`New！`[A novel ellipsoidal safety potential field model for quantifying driving risk](https://doi.org/10.1080/23249935.2025.2522361)
 
-Difei Wu, Sheng Zhong, Man Io Leong, Yishun Li, Boyuan Tian, **Chenglong Liu**, Yuchuan Du
+Cailin Lei, **Cong Zhao\***, Kun Chen, Yuxiong Ji\*, Yuchuan Du
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src="{{ '/images/1.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src="{{ '/images/paper_30.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-International Journal of Pavement Engineering
+Computer-Aided Civil and Infrastructure Engineering
 
-🔥`New！`[Fast calibration for vibration-based pavement roughness measurement based on model updating of vehicle dynamics](https://www.tandfonline.com/doi/abs/10.1080/10298436.2023.2287688)
+[Skill‐abstracting continual reinforcement learning for safe, efficient, and comfortable autonomous driving through vehicle–cloud collaboration](https://doi.org/10.1111/mice.13503)
 
-Difei Wu, **Chenglong Liu**,Bohao Qin, Sheng Zhong, Xiaoming Zhang, Yuchuan Du
+Jing Chen, **Cong Zhao\***, Kun Gao\*, Yuxiong Ji, Yuchuan Du 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src="{{ '/images/2.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_29.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Automation in Construction
+IEEE Transactions on Intelligent Transportation Systems
 
-🔥`New！`[Advances in automatic identification of road subsurface distress using ground penetrating radar: State of the art and future trends](https://www.sciencedirect.com/science/article/pii/S0926580523004454)
+`New！`[Safety field-based vehicle-infrastructure cooperative perception for autonomous driving using 3d point clouds](https://doi.org/10.1109/tits.2025.3546980)
 
-**Chenglong Liu**, Yuchuan Du, Guanghua Yue, Yishun Li, Difei Wu, Feng Li
+**Cong Zhao**, Delong Ding, Cailin Lei\*, Shiyu Wang, Yuxiong Ji\*, Yuchuan Du
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/3.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_28.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE transactions on intelligent transportation systems
+IEEE Transactions on Intelligent Transportation Systems
 
-🔥`New！`[Fine-Grained Pavement Performance Prediction Based on Causal-Temporal Graph Convolution Networks](https://ieeexplore.ieee.org/abstract/document/10311071)
+`New！`[Accelerated Testing and Evaluation for Black-Box Autonomous Driving Systems via Adaptive Markov Chain Monte Carlo](https://doi.org/10.1109/tits.2024.3525059)
 
-Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
+Yuxiong Ji, Zhongke Xu, **Cong Zhao\***, Kun Chen, Yuchuan Du
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_27.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+International Journal of Transportation Science and Technology
+
+[Learning to search for parking like a human: A deep inverse reinforcement learning approach](https://doi.org/10.1016/j.ijtst.2024.11.007)
+
+Shiyu Wang, Haiyan Yang, Yijia Tang, Jing Chen, **Cong Zhao\***, Yuchuan Du
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IET Intelligent Transport Systems
+
+[Comfortable driving control for connected automated vehicles based on deep reinforcement learning and knowledge transfer](https://doi.org/10.1049/itr2.12540)
+
+Chuna Wu, Jing Chen\*, Jinqiang Yao, Tianyi Chen, Jing Cao, **Cong Zhao\***
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Transportation Research Part B: Methodological
+
+[Beyond centralization: Non-cooperative perimeter control with extended mean-field reinforcement learning in urban road networks](https://doi.org/10.1016/j.trb.2024.103016)
+
+Xinghua Li, Xinyuan Zhang, Xinwu Qian, **Cong Zhao**, Yuntao Guo\*, Srinivas Peeta
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Expert Systems with Applications
+
+[A two-stage framework for parking search behavior prediction through adversarial inverse reinforcement learning and transformer](https://doi.org/10.1016/j.eswa.2024.124548)
+
+Tianyi Ji, **Cong Zhao\***, Yuxiong Ji, Yuchuan Du
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Knowledge-Based Systems
+
+[Multi-modal trajectory forecasting with Multi-scale Interactions and Multi-pseudo-target Supervision](https://doi.org/10.1016/j.knosys.2024.111903)
+
+**Cong Zhao**, Andi Song, Zimu Zeng, Yuxiong Ji\*, Yuchuan Du
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+[Graph matching-based spatiotemporal calibration of roadside sensors in cooperative vehicle-infrastructure systems](https://doi.org/10.1109/tits.2024.3374281)
+
+**Cong Zhao**, Delong Ding, Yupeng Shi, Yuxiong Ji\*, Yuchuan Du\*
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+[A rapid and convenient spatiotemporal calibration method of roadside sensors using floating connected and automated vehicle data](https://doi.org/10.1109/tits.2024.3366758)
+
+**Cong Zhao**, Yupeng Shi, Yuchuan Du\*, Shengchuan Jiang, Yuxiong Ji, Xiangmo Zhao
+
+</div>
+</div>
+
 
 <details>
-  <summary style="cursor: pointer; color: #007bff; font-weight: bold; margin: 20px 0;">👉 Click to view Past Publications (点击查看往期论文)</summary>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/4.png' | relative_url }}" alt="sym" width="100%"></div></div>
+  <summary style="cursor: pointer; color: #007bff; font-weight: bold; margin: 20px 0;">👉 Click to view Past Publications (点击查看往期论文)</summary>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_20.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Computer‐Aided Civil and Infrastructure Engineering
+Tunnelling and Underground Space Technology
 
-[Spatiotemporal matching method for tracking pavement distress using high-frequency detection data](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12947)
+[Understanding traffic bottlenecks of long freeway tunnels based on a novel location-dependent lighting-related car-following model](https://doi.org/10.1016/j.tust.2023.105098)
 
-Ning Pan, Hao Liu, Difei Wu, **Chenglong Liu**, Yuchuan Du
+Shanchuan Yu, **Cong Zhao\***, Lang Song, Yishun Li, Yuchuan Du
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src="{{ '/images/5.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_19.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Computer‐Aided Civil and Infrastructure Engineering
+IEEE Transactions on Intelligent Transportation Systems
 
-[Effective pavement skid resistance measurement using multi-scale textures and deep fusion network](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12931)
+[Data-driven indoor positioning correction for infrastructure-enabled autonomous driving systems: A lifelong framework](https://doi.org/10.1109/tits.2022.3233563)
 
-**Chenglong Liu**, Nan Xu, Zihang Weng, Yishun Li, Yuchuan Du, Jing Cao
+**Cong Zhao**, Andi Song, Yifan Zhu, Shengchuan Jiang, Feixiong Liao, Yuchuan Du\*
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src="{{ '/images/6.png' | relative_url }}" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_18.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-International Journal of Transportation Science and Technology(IJTST)
+IEEE Transactions on Intelligent Transportation Systems
 
-[Enabling edge computing ability in view-independent vehicle model recognition](https://www.sciencedirect.com/science/article/pii/S204604302300028X)
+[TriPField: A 3D potential field model and its applications to local path planning of autonomous vehicles](https://doi.org/10.1109/tits.2022.3231259)
 
-**Chenglong Liu**, Ziyuan Pu, Yishun Li, Ying Jiang, Yinhai Wang, Yuchuan Du
+Yuxiong Ji, Lantao Ni, **Cong Zhao\***, Cailin Lei, Yuchuan Du, Wenshuo Wang
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/7.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_17.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-中国公路学报
+International Journal of Environmental Research and Public Health
 
-`封面热点论文`[探地雷达多特征融合的城市空洞自动识别方法研究](https://kns.cnki.net/kcms2/article/abstract?v=N5T8oFSaxGEJhL0CJQuYYdj0jekwNRpkOf29RxPE4BCzD9g-XHdsGhYbW-c6DBruvU4dl-YCoKnJU7AT2WPe1rBVj4vEwIh1DHjQBNQLSyq1ncGSIwsqahPqO6Rw6DvHkUI6K7QdBIqOTug69e80CQ==&uniplatform=NZKPT&language=CHS)
+[Safe, efficient, and comfortable autonomous driving based on cooperative vehicle infrastructure system](https://doi.org/10.3390/ijerph20010893)
 
-杜豫川, 岳光华, **刘成龙\***, 李峰, 蔡文才
+Jing Chen, **Cong Zhao\***, Shengchuan Jiang, Xinyuan Zhang, Zhongxin Li, Yuchuan Du
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/8.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_16.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Automation in Construction
+International Journal of Environmental Research and Public Health
 
-[Deep learning-based pavement subsurface distress detection via ground penetrating radar data](https://www.sciencedirect.com/science/article/pii/S0926580522003892)
+[Analysis of perception accuracy of roadside millimeter-wave radar for traffic risk assessment and early warning systems](https://doi.org/10.3390/ijerph20010879)
 
-Yishun Li, **Chenglong Liu\***, Guanghua Yue, Qian Gao, Yuchuan Du
+**Cong Zhao**, Delong Ding, Zhouyang Du, Yupeng Shi, Guimin Su, Shanchuan Yu\*
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/9.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_15.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE transactions on intelligent transportation systems
+Computer-Aided Civil and Infrastructure Engineering
 
-[ConTrack Distress Dataset: A Continuous Observation for Pavement Deterioration Spatio-Temporal Analysis](https://ieeexplore.ieee.org/abstract/document/9899382)
+[A hierarchical framework for improving ride comfort of autonomous vehicles via deep reinforcement learning with external knowledge](https://doi.org/10.1111/mice.12934)
 
-Yishun Li, **Chenglong Liu\***, Qian Gao, Difei Wu, Feng Li, Yuchuan Du
+Yuchuan Du, Jing Chen, **Cong Zhao\***, Feixiong Liao, Meixin Zhu
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/10.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_14.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE transactions on intelligent transportation systems
+IET Intelligent Transport Systems
 
-[A Response-Type Road Anomaly Detection and Evaluation Method for Steady Driving of Automated Vehicles](https://ieeexplore.ieee.org/abstract/document/9805658)
+[Identifying and correcting the errors of vehicle trajectories from roadside millimetre‐wave radars](https://doi.org/10.1049/itr2.12268)
 
-**Chenglong Liu**, Tong Nie, Yuchuan Du, Jing Cao, Difei Wu, Feng Li
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/11.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Automation in Construction
-
-[Pavement texture depth estimation using image-based multiscale features](https://www.sciencedirect.com/science/article/pii/S0926580522002771)
-
-Zihang Weng, Hui Xiang, Yuchao Lin, **Chenglong Liu**, Difei Wu, Yuchuan Du
+Cailin Lei, **Cong Zhao**, Yuxiong Ji\*, Yu Shen, Yuchuan Du
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/12.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-中国公路学报
-
-`封面热点论文`[高速路网不停车收费车道优化布设方法](https://kns.cnki.net/kcms2/article/abstract?v=N5T8oFSaxGE5KG9OjMOws3MUL1wgDrlkfSj89QJrhfeWkrI2EhlezFAV_l19Bb0k_UV3okDPJjxg-14f6Anke1h9s5ZHoqwCwOJ2yJ-ORt72EXFVJYd2sDNG5eSZWZGdQOs_aPtVVCseO6NWVDoqeQ==&uniplatform=NZKPT&language=CHS)
-
-**刘成龙**, 陶莎, 赵聪, 暨育雄, 杜豫川
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020</div><img src='images/13.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-International Journal of Pavement Engineering
-
-[Mathematical insights into the relationship between pavement roughness and vehicle vibration](https://www.tandfonline.com/doi/abs/10.1080/10298436.2020.1830092)
-
-**Chenglong Liu**, Difei Wu, Yishun Li, Shengchuan Jiang, Yuchuan Du
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/14.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-中国公路学报
-
-`2023年度优秀论文、封面热点论文、高被引、高下载、高影响力论文`[新一代智慧高速公路系统架构设计](https://kns.cnki.net/kcms2/article/abstract?v=N5T8oFSaxGGw0wHSNKMvp4f2OMptvhq4A-cUocNQMXwE6VPu6ym5UDzZd4tu70FeQSz2xd43pjx2YQREQL0Nh03GipYcCuM3qDjGgRjcLT6OoTePi95LBVT4vxw7kXXlKSYi8sLU0AitgIHkw0EK9w==&uniplatform=NZKPT&language=CHS)
-
-杜豫川, **刘成龙\***, 吴荻非, 赵聪
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/15.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Automation in Construction
-
-[Rapid pavement aggregate gradation estimation based on 3D data using a multi-feature fusion network](https://www.sciencedirect.com/science/article/pii/S092658052100501X)
-
-Zihang Weng, Gulnigar Ablat, Difei Wu, **Chenglong Liu\***, Feng Li, Yuchuan Du, Jing Cao
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/16.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Transportation Research Part C
-
-`ESI(1%)`[Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0968090X21004757)
-
-Yuchuan Du, Jing Chen, Cong Zhao, **Chenglong Liu**, Feixiong Liao, Ching-Yao Chan
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/17.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_13.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Transportation Research Part C: Emerging Technologies
 
-`ESI (1%), ESI(0.1%), COTA Best Presetation Award, 交通部重大科技成果(论文类)`[Large-scale pavement roughness measurements with vehicle crowdsourced data using semi-supervised learning](https://www.sciencedirect.com/science/article/pii/S0968090X21000784)
+[TrajGAT: A map-embedded graph attention network for real-time vehicle trajectory imputation of roadside perception](https://doi.org/10.1016/j.trc.2022.103787)
 
-**Chenglong Liu**, Difei Wu, Yishun Li, Yuchuan Du
+**Cong Zhao**, Andi Song, Yuchuan Du\*, Biao Yang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_12.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+中国公路学报
+
+[智能网联环境下路侧感知单元数据质量在线监测框架](https://doi.org/10.19721/j.cnki.1001-7372.2022.03.023)
+
+杜豫川, 师钰鹏, 都州扬, **赵 聪\***, 暨育雄
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_11.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Computers and Electrical Engineering
+
+[A Lifelong Framework for Data Quality Monitoring of Roadside Sensors in Cooperative Vehicle-Infrastructure Systems](https://doi.org/10.1016/J.COMPELECENG.2022.108030)
+
+Yuchuan Du, Yupeng Shi, **Cong Zhao\***, Zhouyang Du, Yuxiong Ji
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_10.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IET Intelligent Transport Systems
+
+[Quantifying the Performance and Optimizing the Placement of Roadside Sensors for Cooperative Vehicle-Infrastructure Systems](https://doi.org/10.1049/itr2.12185)
+
+Yuchuan Du, Fengqi Wang, **Cong Zhao\***, Yifan Zhu, Yuxiong Ji
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_09.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+[A novel direct trajectory planning approach based on generative adversarial networks and rapidly-exploring random tree](https://doi.org/10.1109/tits.2022.3164391)
+
+**Cong Zhao**, Yifan Zhu, Yuchuan Du\*, Feixiong Liao, Ching-Yao Chan
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_08.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Transportation Research Part C: Emerging Technologies
+
+[Online parking assignment in an environment of partially connected vehicles: A multi-agent deep reinforcement learning approach](https://doi.org/10.1016/j.trc.2022.103624)
+
+Xinyuan Zhang, **Cong Zhao\***, Feixiong Liao, Xinghua Li, Yuchuan Du
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_07.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Transportation Research Part C: Emerging Technologies
+
+[Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning](https://doi.org/10.1016/j.trc.2021.103489)
+
+Yuchuan Du, Jing Chen, **Cong Zhao\***, Chenglong Liu, Feixiong Liao, Ching-Yao Chan
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_06.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Journal of Transportation Engineering, Part A: Systems
+
+[From Search-for-Parking to Dispatch-for-Parking in an Era of Connected and Automated Vehicles: A Macroscopic Approach](https://doi.org/10.1061/jtepbs.0000640)
+
+**Cong Zhao**, Jing Cao\*, Xinyuan Zhang, Yuchuan Du
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_05.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+[A novel spatio-temporal synchronization method of roadside asynchronous MMW radar-camera for sensor fusion](https://doi.org/10.1109/tits.2021.3119079)
+
+Yuchuan Du, Bohao Qin, **Cong Zhao\***, Yifan Zhu, Jing Cao, Yuxiong Ji
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='/images/paper_04.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+中国公路学报
+
+[路侧感知车辆轨迹数据质量智能评估方法](https://doi.org/10.19721/j.cnki.1001-7372.2021.07.013)
+
+杜豫川, 都州扬, 师钰鹏, **赵 聪\***, 暨育雄
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='/images/paper_03.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Journal of Advanced Transportation
+
+[New generation of smart highway: Framework and insights](https://doi.org/10.1155/2021/9445070)
+
+Chenglong Liu, Yuchuan Du\*, Yiheng Ge, Difei Wu, **Cong Zhao**, Yishun Li
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='/images/paper_02.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+中国公路学报
+
+[基于多智能体深度强化学习的停车系统智能延时匹配方法](https://doi.org/10.37155/2717-5170-0708-9)
+
+**赵 聪**, 张昕源, 李兴华, 杜豫川\*
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='/images/paper_01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Transportation Research Part C: Emerging Technologies
+
+[Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network](https://doi.org/10.1016/j.trc.2021.103176)
+
+**Cong Zhao**, Feixiong Liao\*, Jing Cao, Yuchuan Du\*
 
 </div>
 </div>
 </details>
 
 # 📚 Patents
-- 🔥`New！`A method for leakage detection of underground corridor based on static infrared thermal image processing(GB2569751)
-- 🔥`New！`Comfort-based self-driving planning method(US 11,447,150 B2)
-- Method of controlling automated driving speed based on comfort level(WO/2018/122586)
-- 🔥`New！`基于多车众筹振动数据的路网级平整度检测方法	ZL202210144895.0
-- 🔥`New！`一种考虑碳排放的路网级全生命养护优化方法	ZL202210139768.1
-- 一种基于关联规则分析的道路深层病害预警方法	ZL202110215728.6
-- 一种振动式路面平整度测试车的标定方法	ZL202110661532.X
-- 一种基于摩擦接触面预估的路面抗滑性能评价方法	ZL202110121825.X
-- 一种路面损伤快速检测和自然数据集构建方法	ZL202110073970.4
-- 一种基于多源特征融合的路面损伤数据时空分析方法	ZL202110074435.0
+- A method of infrastructure-augmented cooperative perception for autonomous vehicles based on voxel feature aggregation(GB2628958)
+- A method for multi-sensor multi-vehicle tracking based on image and motion feature matching(GB2628516)
+- Radar and video data fusion method for vehicle tracking based on deep learning and feature similarity(GB2628517)
+- A vehicle-road cooperative perception method for 3D object detection based on deep neural networks with feature sharing(GB2618936)
+- On-board positioning device-based roadside millimeter-wave radar calibration method(GB2620877)
+- Multi-target vehicle detection and re-identification method based on radar and video fusion(GB2619196)
+- 🔥`New！`一种非完备感知数据下全域车辆轨迹构建方法 ZL202210763169.7
+- 一种基于图匹配的车路协同系统多传感器时空标定方法 ZL202310021057.9
+- 一种集群车辆运动轨迹预测方法 ZL202111474976.9
+- 基于不确定性量化的路域全量全要素可信感知方法及系统 ZL202411902369.1
+- 一种跨域车辆重识别及连续轨迹构建方法 ZL202210763102.3
+- 一种基于双层模型的停车资源精细化管理优化方法 ZL202311201779.9
+- 一种跨域路侧感知多车辆关联方法及系统 ZL202311239693.5
+- 一种面向自主代客泊车场景的车辆运动轨迹预测方法 ZL202311335481.7
+- 一种地下停车场盲区超视距感知及预警方法 ZL202311151480.7
+- 一种面向路侧感知单元的车辆轨迹缺损数据修补方法 ZL202111427550.8
+- 一种智能网联环境下路侧感知单元数据质量监测方法 ZL202111465443.4
+- 一种道路交通感知轨迹数据的质量评估方法 ZL202110789522.4
+- 一种路侧激光雷达点云坐标动态修正方法 ZL202110124242.1
+- 一种车路协同环境下的自动驾驶横向控制方法 ZL202110131776.7
+- 一种车路协同环境下的自动驾驶纵向决策控制方法 ZL202110131790.7
 
+<span class='anchor' id='-honors-and-awards'></span>
 
 # 🏆 Honors and Awards
 🏅 Honors
-- 🔥`New！`	同济大学教学成果奖**二等奖**（2025）明体达用、智慧赋能：《交通数据分析与应用》课程建设与创新教学实践
-- 🔥`New！`同济大学青年教师教学竞赛**一等奖**（2025）《计算机视觉》
-- 🔥`New！`北京市科技进步奖**二等奖**（2025）《城市道路智能巡检与精细管养关键技术及工程应用》
-- 🔥`New！`中国智能交通协会科技进步奖**二等奖**（2025）《高频数据驱动的生成式道路养护决策关键技术及应用》
-- 🔥`New！`中国公路学会科技进步**一等奖**（2025）《在役公路网的“巡检-决策-养护”智能装备和系统研发及应用》
-- 广东省科技进步**二等奖**（2024）《城市道路多维运行风险泛在感知与管养决策关键技术及应用》
-- 江西省科技进步**二等奖**（2024）《高速公路数智养护技术研究与应用》
-- 中国公路学会科学技术奖**特等奖**(2023) 《距离高速公路智能建造与运维关键技术研究及应用》
-- 《中国公路学报》年度**优秀论文**(2023) 《新一代智慧高速公路系统架构设计》
-- 中国交通协会科技进步**一等奖**(2023) 《高速公路数智养护与决策平台建设关键技术研究及开发》
-- 上海市**百强高价值专利**(2022) 《轻量化路面巡查系统》专利群，核心专利已完成300万转化
-- 中国**专利优秀奖**(2021)，《一种基于重力加速度传感器的路面平整度检测方法》
-- 江西公路科技进步**一等奖**(2021)《高速公路智慧管养技术研究与应用》
-- 中国发明协会发明创新**一等奖**(2020) 《路面表观损伤智能快速巡检系统研发及应用》
-- 上海市科技进步**一等奖**(2019) 《路面多维高频检测装备和智能养护技术及应用》
-- 中国公路学会科学技术奖**一等奖**(2017)《轻量化沥青路面行驶质量快速检测系统》
+
 
 # 🧑‍💻 People
 <style>
